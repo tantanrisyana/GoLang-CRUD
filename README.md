@@ -1,6 +1,3 @@
-Repo Git Tugas Akhir
-https://github.com/tantanrisyana/tugasakhir
-
 Deployment API
 https://datasiswa.osc-fr1.scalingo.io/siswa
 <br/><br/>
